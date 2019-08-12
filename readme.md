@@ -8,7 +8,7 @@ hopefully this solution can help 😊
 
 -------------------
 
-**[DEMO](https://indrijunanda.github.io/tributepage-fcc/)** or check on **[Codepen](https://codepen.io/indrijunanda/pen/RXQvwo)**
+**[DEMO](https://indrijunanda.github.io/surveyform-fcc/)** or check on **[Codepen](https://codepen.io/indrijunanda/pen/RXQvwo)**
 
 -------------------
 
